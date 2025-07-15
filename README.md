@@ -50,5 +50,10 @@ A beautiful, production-ready Flutter ToDo app with authentication, notes, dark 
 <img width="314" height="694" alt="todo 3" src="https://github.com/user-attachments/assets/fe6dd993-d9dc-4985-ba9f-7ed38eefc47a" />
 
 
+<img width="318" height="699" alt="todo 2" src="https://github.com/user-attachments/assets/310fa59e-17c9-43fd-9a22-c29066bac88a" />
+
+
+<img width="314" height="694" alt="todo 3" src="https://github.com/user-attachments/assets/def22637-cd2e-422d-a1f7-c0f38c62c30b" />
+
 
 
