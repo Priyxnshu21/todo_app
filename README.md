@@ -10,8 +10,6 @@ A beautiful, production-ready Flutter ToDo app with authentication, notes, dark 
 - Full dark mode support
 - Bottom navigation for seamless switching between ToDos and Notes
 
-## Screenshots
-<!-- Add your screenshots here -->
 
 ## Getting Started
 
@@ -46,5 +44,11 @@ A beautiful, production-ready Flutter ToDo app with authentication, notes, dark 
 - Update theme colors in `main.dart` for your brand
 - Add more features or polish the UI as needed
 
-## License
-MIT
+## Screenshots
+
+
+<img width="314" height="694" alt="todo 3" src="https://github.com/user-attachments/assets/fe6dd993-d9dc-4985-ba9f-7ed38eefc47a" />
+
+
+
+
